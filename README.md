@@ -2,7 +2,9 @@
 ####  Here, we report pGlycoQuant, a generic software tool for accurate and convenient quantitative intact glycopeptide analysis, supporting both primary and tandem mass spectrometry quantitation for multiple quantitative strategies. pGlycoQuant enables intact glycopeptide quantitation with minuscule missing value via a deep residual network and includes a quantitative bioinformatics analysis module. At present, pFind, pGlyco, Byonic and MSFragger software glycosylation identification results can be used for quantification by pGlycoQuant.
 
 ### Version: pGlycoQuant_V1.1
-### Release Date: 2021.11.05
+### Release Date: 2022.05
+### We have extend the permission of the core engine to 2022.06.30.
+
 
 ## Computer configuration
 ####  RAM: 16G or higher is recommended
@@ -15,8 +17,8 @@
 
 
 ## GUI Operation Usage
-####  Please read Manual_version.2011.11.pdf to learn the useage of pGlycoQuant.
-####  The dataset used for demo also can be found in Manual_version.2011.11.pdf.
+####  Please read Manual_version.2022.05.pdf to learn the useage of pGlycoQuant.
+####  The dataset used for demo also can be found in Manual_version.2022.05.pdf.
 
 
 ## Other notes
