@@ -3,7 +3,7 @@
 
 ### Version: pGlycoQuant_V1.1
 ### Release Date: 2022.05
-### We have extend the permission of the core engine to 2022.06.30.
+### We have extend the permission of the core engine to 2022.12.31.
 
 
 ## Computer configuration
